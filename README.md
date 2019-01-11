@@ -50,7 +50,7 @@ of each ODF before rendering the glyph. There is no need to do this on
 CSD data, so MRTrix doesn't implement that feature. We can tell that
 orientation has been preserved by running ``fod2fixel`` on the output
 of this function:
-![gqi_to_fixel](DSIStudioToFixel.png)
+![gqi_to_fixel](images/DSIStudioToFixel.png)
 
 Another cool result is that the AFD here is actually quantitative anisotropy
 from DSI Studio! 
